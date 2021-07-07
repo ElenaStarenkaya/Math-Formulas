@@ -1,0 +1,18 @@
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: left;
+}
+.formulas {
+    text-align: center;
+    /* background-color: rgb(241, 123, 143); */
+}
+.eq {
+    background-color: rgb(238, 144, 160);
+}
+.word {
+    color: darkred;
+    font-weight: 900;
+    font-style: italic;
+}
